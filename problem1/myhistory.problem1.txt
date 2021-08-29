@@ -1,0 +1,183 @@
+    1  echo $HOST
+    2  > history
+    3  cr96929
+    4  >less
+    5  less myhistory.txt
+    6  > less myhistory.txt
+    7  >less >myhistory.txt
+    8  ls
+    9  ls - l
+   10  ls
+   11  head
+   12  passwd prEvm3d2021!
+   13  passwd user
+   14  passwd
+   15  cd~
+   16  cd/
+   17  /home
+   18  pwd
+   19  ls
+   20  ls-l
+   21  ls -l
+   22  cd
+   23  cd..
+   24  cd ..
+   25  cd~
+   26  cd ~
+   27  mkdir dir_name bin
+   28  ls
+   29  mkdir bin
+   30  mkdir scripts
+   31  ls
+   32  rm scripts
+   33  rm -r scripts
+   34  ls
+   35  cd ..
+   36  ls
+   37  cd
+   38  mkdir scripts
+   39  ls
+   40  cd -
+   41  mkdir projects
+   42  pwd
+   43  cd ~
+   44  pwd
+   45  mkdir bin
+   46  cd ~
+   47  mkdir scripts
+   48  cd ~
+   49  mkdir projects
+   50  ls
+   51  ls -l
+   52  rm -r dir_name
+   53  ls -l
+   54  rm -r myhistory.txt
+   55  rm -r less
+   56  rm -r history
+   57  ls -l
+   58  cd~
+   59  cd ~
+   60  ped
+   61  pwd
+   62  tree ~
+   63  :wq
+   64  : wq
+   65  zz
+   66  : wq
+   67  :wq
+   68  cd ~
+   69  cd
+   70  la
+   71  ls
+   72  : wd
+   73  pwd
+   74  - tree
+   75  ~tree 
+   76  -tree
+   77  / tree
+   78  tree
+   79  : wq
+   80  ls
+   81  tree
+   82  cd
+   83  cd ~
+   84  pwd
+   85  tree
+   86  : wq
+   87  prEvm3d2021!
+   88  mkdir assignments
+   89  ls
+   90  cd assignments
+   91  ls
+   92  pwd
+   93  git clone https://github.com/crubalcava/trgn510_assignment1.git
+   94  cd
+   95  pwd
+   96  cd trgn510_assignment1
+   97  cd ..
+   98  cd assignments
+   99  pwd
+  100  cd ~
+  101  pwd
+  102  cd assignments
+  103  cd trgn510_assignment1
+  104  ls
+  105  vim Readme.md
+  106  git add . -A
+  107  git commit -m "First commit"
+  108  git config --global user.email "cr96929@usc.edu"
+  109  git config --global user.name "Crystal Rubalcava"
+  110  git push
+  111  pwd
+  112  ls -a
+  113  vim README.md
+  114  vim Readme.md
+  115  git push
+  116  ls -a
+  117  vim README.md
+  118  rm Readme.md
+  119  ls -a
+  120  pwd
+  121  find /home/cr96929/assignments/trgn510_assignment1
+  122  tree
+  123  ls -a
+  124  git status
+  125  cd
+  126  cd ~
+  127  la
+  128  ls
+  129  cd assignments
+  130  tree
+  131  ls -a
+  132  git status
+  133  git rm -a
+  134  git clone git clone https://github.com/crubalcava/trgn510_assignment1.git
+  135  ls -a
+  136  tree
+  137  git add . -A
+  138  rm -rf trgn510_assignment1
+  139  ls -a
+  140  git clone https://github.com/crubalcava/trgn510_assignment1.git
+  141  cd trgn510_assignment1
+  142  ls -a
+  143  vim README.md
+  144  git add . -A
+  145  git commit -m "First commit"
+  146  git push
+  147  mkdir problem 1
+  148  ls
+  149  history
+  150  cat
+  151  ls -a
+  152  pwd
+  153  rm problem 1
+  154  cd problem 1
+  155  mv problem 1 problem1
+  156  rm -rf problem 1
+  157  mkdir problem1
+  158  tree
+  159  rm -rf problem1
+  160  cd assignments
+  161  cd ~
+  162  cd assignments
+  163  tree
+  164  rm -rf 1
+  165  rm -rf problem
+  166  tree
+  167  mkdir problem1
+  168  tree
+  169  rm -rf problem1
+  170  tree
+  171  cd trgn510_assignment1
+  172  rm -rf 1
+  173  rm -rf problem
+  174  tree
+  175  mkdir problem1
+  176  history
+  177  ls -l
+  178  ls -a
+  179  ls
+  180  pwd
+  181  cd problem1
+  182  history
+  183  history > myhistory.problem1.txt
